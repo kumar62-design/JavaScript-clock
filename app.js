@@ -1,4 +1,4 @@
-console.log('hi');
+// console.log('hi');
 
 
 // set time interval is use for clock changing every second and every milisecond we wand to call this fn.
