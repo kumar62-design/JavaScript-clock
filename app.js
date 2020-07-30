@@ -42,7 +42,3 @@ function setRotation(element, rotationRatio) {
     setClock()
 
 
-var arry = 'saurabh';
-arry.reverse();
-
-console.log(arry)
